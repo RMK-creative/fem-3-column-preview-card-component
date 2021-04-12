@@ -1,0 +1,20 @@
+:root {
+    --bright-orange: hsl(31, 77%, 52%);
+    --dark-cyan: hsl(184, 100%, 22%);
+    --very-dark-cyan: hsl(179, 100%, 13%);
+    --transparent-white: hsla(0, 0%, 100%, 0.75);
+    --v-light-gray: hsl(0, 0%, 95%);
+    --headings-font: 'Big Shoulders Display', cursive;
+    --body-font: 'Lexend Deca', sans-serif;
+}
+
+html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 15px;
+    min-height: 100vh;
+    min-width: 100vw;
+}
