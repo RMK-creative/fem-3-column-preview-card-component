@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fem-3-column-preview-card.netlify.app/)
+- Live Site URL: (https://fem-3-column-preview-card.netlify.app/)
 
 ## My process
 
