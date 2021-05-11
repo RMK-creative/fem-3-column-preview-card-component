@@ -4,8 +4,8 @@
   --very-dark-cyan: #004241;
   --transparent-white: rgba(255, 255, 255, 0.75);
   --v-light-gray: #f2f2f2;
-  --headings-font: 'Big Shoulders Display', cursive;
-  --body-font: 'Lexend Deca', sans-serif;
+  --headings-font: "Big Shoulders Display", cursive;
+  --body-font: "Lexend Deca", sans-serif;
 }
 
 html {
@@ -110,7 +110,7 @@ p {
   color: var(--very-dark-cyan);
 }
 
-@media only screen and (min-width: 43.75rem) {
+@media only screen and (min-width: 51.25rem) {
   .container {
     max-width: 57.5rem;
     display: grid;
