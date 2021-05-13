@@ -62,6 +62,29 @@ p {
   line-height: 1.8;
 }
 
+/* @keyframes duration | easing-function | delay | iteration-count | direction | fill-mode | play-state | name */
+.img-sed {
+  animation: 1.9s slidein;
+}
+
+.img-suv {
+  animation: 1.5s slidein;
+}
+
+.img-lux {
+  animation: 1s slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 0%;
+    transform: translateX(-10px);
+  }
+  to {
+    margin-left: 0%;
+  }
+}
+
 .box {
   padding: 3rem;
 }
